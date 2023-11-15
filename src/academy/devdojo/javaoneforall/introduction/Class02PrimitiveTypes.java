@@ -12,6 +12,8 @@ public class Class02PrimitiveTypes {
         short ageShort = 29; // -32768 to 32767 2 bytes
         byte ageByte = 39; // -128 to 127 1 byte
         char character = 'W'; // 2 bytes
+        String name = "Parzival";
         System.out.println("The age is " + age + " years old");
+        System.out.println(name);
     }
 }
