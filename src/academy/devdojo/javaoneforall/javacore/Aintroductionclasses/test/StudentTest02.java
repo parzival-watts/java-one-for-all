@@ -17,5 +17,7 @@ public class StudentTest02 {
         System.out.println(student2.gender);
         System.out.println(student2.name);
 
+        
+
     }
 }
