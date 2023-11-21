@@ -37,4 +37,11 @@ public class Calculator {
 
     }
 
+    public void changeTwoNumbers(int nbr1, int nbr2){
+        nbr1 = 99;
+        nbr2 = 33;
+        System.out.println("Inside changeTwoNumbers ");
+        System.out.println("Num1 : " + nbr1 + " Num2 : " + nbr2);
+    }
+
 }
